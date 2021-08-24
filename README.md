@@ -15,7 +15,7 @@ It fetches all transactions from a REST API and calculates running daily balance
 
 You need to install JDK 1.8+, check out the repository and run
 ```
-java -jar [your project path]/RestTestBenchAccounting/RestTest.jar
+java -jar [your project path]/restTestBench/RestTest.jar
 ```
 
 You can also run it with optional arguments:
